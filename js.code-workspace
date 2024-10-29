@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../hospital-website-template/js"
+		},
+		{
+			"path": "../hospital-website-template/lib"
+		},
+		{
+			"path": "../hospital-website-template/scss"
+		},
+		{
+			"path": "../hospital-website-template/css"
+		},
+		{
+			"path": "../hospital-website-template/img"
+		}
+	],
+	"settings": {}
+}
